@@ -1,0 +1,45 @@
+.sona{
+filter: drop-shadow(10px 10px 10px black);
+}
+
+.box{
+    position:fixed;
+    height:65%;
+    width:600px;
+    left: 30%;
+    right: 30%;
+    top:23%;
+filter:drop-shadow(px 5px  7px black);*/
+             }
+             .boxforgot{  position:fixed;
+               height:40%;
+               width:600px;
+               left: 30%;
+               right: 30%;
+               top:30%;
+           filter:drop-shadow(px 5px  7px black);*/}
+           .box3f{position:fixed;
+             height:80%;
+             width:600px;
+             left: 30%;
+             right: 30%;
+             top:10%;
+         filter:drop-shadow(px 5px  7px black);*/}
+.btn-outline-light{
+        font-size: 200%;
+        border-radius: 25px 2px;
+        filter:drop-shadow(12px 12px  30px white);
+}
+/*.btn-dark{
+
+                       left:42%;
+                       bottom:30px;
+                       font-size: 230%;*/
+label{
+     font-size: 30px;
+                    }
+#logmob{display:none;}
+.fa-eye{margin-left: 60%;}
+.btn-primary{font-size: 30px;
+}
+.text{display: none;}
